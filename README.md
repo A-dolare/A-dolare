@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Abdul Rahman
-Email Me For Collaboration/Project or Anything Else. 😊😊
+Email Me abdulrahmandolare1@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** MySQL_complete_notes, DSA_python_for_beginners, RAG_automation
+- 🌱 **I’m currently learning:** DSA, MySql, AI automation
+- 👯 **I’m looking to collaborate on:** DSA python and MySql repos
+- 🤔 **I’m looking for help with:** MySql repo
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 📫 **How to reach me:** abdulrahmandolare1@gmail.com
+- 😄 **Pronouns:** Bro
+- ⚡ **Fun fact:** Still Learning
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A-dolare&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
@@ -40,7 +40,7 @@ Email Me For Collaboration/Project or Anything Else. 😊😊
 ---
 [![](https://komarev.com/ghpvc/?username=A-dolare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote for Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
